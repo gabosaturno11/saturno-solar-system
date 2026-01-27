@@ -1,0 +1,829 @@
+{
+  "sun": {
+    "name": "Sun",
+    "type": "Star",
+    "characteristics": [
+      "Central body",
+      "Nuclear fusion core",
+      "Source of all energy",
+      "99.86% of system mass"
+    ],
+    "practice_ties": [
+      "Initiation point",
+      "Energy source",
+      "Central focus",
+      "Beginning of journey"
+    ]
+  },
+  "inner_planets": {
+    "mercury": {
+      "name": "Mercury",
+      "type": "Terrestrial Planet",
+      "distance_au": 0.39,
+      "moons": 0,
+      "characteristics": [
+        "Smallest planet",
+        "Closest to Sun",
+        "Extreme temperatures (-170\u00b0C to 420\u00b0C)",
+        "No atmosphere",
+        "Large iron core",
+        "Fast orbit (88 Earth days)"
+      ],
+      "practice_ties": [
+        "Foundation basics",
+        "Speed and agility",
+        "Extreme adaptability",
+        "Communication and quick thinking",
+        "Heat/cold endurance training"
+      ]
+    },
+    "venus": {
+      "name": "Venus",
+      "type": "Terrestrial Planet",
+      "distance_au": 0.72,
+      "moons": 0,
+      "characteristics": [
+        "Hottest planet (460\u00b0C)",
+        "Dense CO2 atmosphere",
+        "Retrograde rotation",
+        "90x Earth atmospheric pressure",
+        "Volcanic surface",
+        "No magnetic field"
+      ],
+      "practice_ties": [
+        "Endurance under pressure",
+        "Love and beauty aesthetics",
+        "Reverse/unconventional movements",
+        "Atmospheric breathing work",
+        "Heat tolerance"
+      ]
+    },
+    "earth": {
+      "name": "Earth",
+      "type": "Terrestrial Planet",
+      "distance_au": 1.0,
+      "moons": 1,
+      "moon_names": [
+        "Moon"
+      ],
+      "characteristics": [
+        "Only known life-supporting planet",
+        "71% water surface",
+        "Magnetic field protection",
+        "Dynamic geology",
+        "Breathable atmosphere",
+        "Goldilocks zone"
+      ],
+      "practice_ties": [
+        "Grounding and stability",
+        "Natural movement patterns",
+        "Home base reference",
+        "Functional fitness",
+        "Earth connection"
+      ]
+    },
+    "mars": {
+      "name": "Mars",
+      "type": "Terrestrial Planet",
+      "distance_au": 1.52,
+      "moons": 2,
+      "moon_names": [
+        "Phobos",
+        "Deimos"
+      ],
+      "characteristics": [
+        "Red planet (iron oxide)",
+        "Polar ice caps",
+        "Largest volcano (Olympus Mons)",
+        "Thin atmosphere",
+        "Day length similar to Earth",
+        "Evidence of ancient water"
+      ],
+      "practice_ties": [
+        "Warrior energy",
+        "Aggressive training",
+        "Explosive power",
+        "Combat readiness",
+        "Breaking through barriers",
+        "Red/fire energy"
+      ]
+    }
+  },
+  "gas_giants": {
+    "jupiter": {
+      "name": "Jupiter",
+      "type": "Gas Giant",
+      "distance_au": 5.2,
+      "moons": 95,
+      "major_moons": [
+        "Io",
+        "Europa",
+        "Ganymede",
+        "Callisto"
+      ],
+      "rings": {
+        "main_ring": "Dense narrow ring",
+        "halo_ring": "Inner diffuse ring",
+        "gossamer_rings": [
+          "Amalthea ring",
+          "Thebe ring"
+        ]
+      },
+      "characteristics": [
+        "Largest planet",
+        "Great Red Spot storm",
+        "Strong magnetosphere",
+        "Mostly hydrogen/helium",
+        "Failed star",
+        "Protects inner planets"
+      ],
+      "practice_ties": [
+        "Expansion and growth",
+        "Massive strength gains",
+        "Leadership qualities",
+        "Protective mentorship",
+        "Jupiter's wisdom",
+        "Storm-like intensity"
+      ]
+    },
+    "saturn": {
+      "name": "Saturn",
+      "type": "Gas Giant",
+      "distance_au": 9.5,
+      "moons": 146,
+      "major_moons": [
+        "Titan",
+        "Enceladus",
+        "Mimas",
+        "Iapetus",
+        "Rhea"
+      ],
+      "rings": {
+        "d_ring": "Innermost faint ring",
+        "c_ring": "Transparent crepe ring",
+        "b_ring": "Brightest, densest ring",
+        "a_ring": "Outer main ring with Cassini Division",
+        "f_ring": "Narrow twisted ring",
+        "g_ring": "Very faint ring",
+        "e_ring": "Widest, fed by Enceladus"
+      },
+      "characteristics": [
+        "Spectacular ring system",
+        "Least dense planet",
+        "Would float on water",
+        "Hexagonal north pole",
+        "Many shepherd moons",
+        "Titan has atmosphere"
+      ],
+      "practice_ties": [
+        "Structure and discipline",
+        "Ring specialization routes",
+        "Systematic progression",
+        "Beauty in form",
+        "Precision and accuracy",
+        "Systematic mastery"
+      ]
+    },
+    "uranus": {
+      "name": "Uranus",
+      "type": "Ice Giant",
+      "distance_au": 19.2,
+      "moons": 27,
+      "major_moons": [
+        "Titania",
+        "Oberon",
+        "Umbriel",
+        "Ariel",
+        "Miranda"
+      ],
+      "rings": 13,
+      "ring_names": [
+        "Zeta",
+        "6",
+        "5",
+        "4",
+        "Alpha",
+        "Beta",
+        "Eta",
+        "Gamma",
+        "Delta",
+        "Lambda",
+        "Epsilon",
+        "Nu",
+        "Mu"
+      ],
+      "characteristics": [
+        "Rotates on its side (98\u00b0 tilt)",
+        "Coldest planetary atmosphere (-224\u00b0C)",
+        "Methane gives blue color",
+        "Faint ring system",
+        "Retrograde rotation",
+        "Magnetic field tilted 47\u00b0"
+      ],
+      "practice_ties": [
+        "Unconventional approaches",
+        "Side/lateral movements",
+        "Flexibility extremes",
+        "Cold adaptation",
+        "Unique perspectives",
+        "Revolutionary techniques"
+      ]
+    },
+    "neptune": {
+      "name": "Neptune",
+      "type": "Ice Giant",
+      "distance_au": 30.1,
+      "moons": 14,
+      "major_moons": [
+        "Triton",
+        "Nereid",
+        "Proteus"
+      ],
+      "rings": 5,
+      "ring_names": [
+        "Galle",
+        "Le Verrier",
+        "Lassell",
+        "Arago",
+        "Adams"
+      ],
+      "characteristics": [
+        "Windiest planet (2100 km/h)",
+        "Deep blue color",
+        "Triton orbits retrograde",
+        "Very cold (-200\u00b0C)",
+        "Dynamic atmosphere",
+        "Farthest known planet"
+      ],
+      "practice_ties": [
+        "Flow and fluidity",
+        "Deep emotional work",
+        "Spiritual/intuitive movement",
+        "Water element mastery",
+        "Depth exploration",
+        "Transcendence"
+      ]
+    }
+  },
+  "dwarf_planets": {
+    "pluto": {
+      "name": "Pluto",
+      "type": "Dwarf Planet",
+      "distance_au": 39.5,
+      "moons": 5,
+      "moon_names": [
+        "Charon",
+        "Styx",
+        "Nix",
+        "Kerberos",
+        "Hydra"
+      ],
+      "location": "Kuiper Belt",
+      "characteristics": [
+        "Former 9th planet",
+        "Highly eccentric orbit",
+        "Binary system with Charon",
+        "Heart-shaped region",
+        "Complex geology",
+        "Nitrogen atmosphere"
+      ],
+      "practice_ties": [
+        "Transformation mastery",
+        "Death/rebirth cycles",
+        "Hidden power",
+        "Underworld exploration",
+        "Psychological depth",
+        "Phoenix rising"
+      ]
+    },
+    "eris": {
+      "name": "Eris",
+      "type": "Dwarf Planet",
+      "distance_au": 67.8,
+      "moons": 1,
+      "moon_names": [
+        "Dysnomia"
+      ],
+      "location": "Scattered Disk",
+      "characteristics": [
+        "Most massive dwarf planet",
+        "Caused Pluto's reclassification",
+        "Highly reflective surface",
+        "Extreme elliptical orbit",
+        "Very cold"
+      ],
+      "practice_ties": [
+        "Discord and challenge",
+        "Breaking conventions",
+        "Chaos mastery",
+        "Revolutionary change",
+        "Competitive disruption",
+        "Boundary pushing"
+      ]
+    },
+    "makemake": {
+      "name": "Makemake",
+      "type": "Dwarf Planet",
+      "distance_au": 45.8,
+      "moons": 1,
+      "moon_names": [
+        "MK2"
+      ],
+      "location": "Kuiper Belt",
+      "characteristics": [
+        "Reddish surface",
+        "No significant atmosphere",
+        "Rapid rotation",
+        "Named after Easter Island creator god",
+        "Highly reflective"
+      ],
+      "practice_ties": [
+        "Creative force",
+        "Fertility/creation",
+        "Easter/rebirth themes",
+        "Island isolation training",
+        "Self-creation",
+        "Manifestation"
+      ]
+    },
+    "haumea": {
+      "name": "Haumea",
+      "type": "Dwarf Planet",
+      "distance_au": 43.3,
+      "moons": 2,
+      "moon_names": [
+        "Hi'iaka",
+        "Namaka"
+      ],
+      "rings": "Yes",
+      "location": "Kuiper Belt",
+      "characteristics": [
+        "Elongated rugby ball shape",
+        "Fastest rotation (3.9 hours)",
+        "Only ringed dwarf planet",
+        "Hawaiian goddess of childbirth",
+        "Collision family"
+      ],
+      "practice_ties": [
+        "Spin and rotation mastery",
+        "Birth/creation",
+        "Oval/elongated movements",
+        "Ring work",
+        "Family systems",
+        "Rapid transitions"
+      ]
+    },
+    "ceres": {
+      "name": "Ceres",
+      "type": "Dwarf Planet",
+      "distance_au": 2.8,
+      "moons": 0,
+      "location": "Asteroid Belt",
+      "characteristics": [
+        "Largest asteroid belt object",
+        "Possible subsurface ocean",
+        "Bright spots (salt deposits)",
+        "Roman goddess of harvest",
+        "Spherical shape"
+      ],
+      "practice_ties": [
+        "Nourishment and growth",
+        "Harvest/results",
+        "Belt/core work",
+        "Seasonal cycles",
+        "Mothering/nurturing",
+        "Abundance mindset"
+      ]
+    }
+  },
+  "asteroid_belts": {
+    "main_belt": {
+      "name": "Main Asteroid Belt",
+      "location": "Between Mars and Jupiter (2.2-3.2 AU)",
+      "major_objects": [
+        "Ceres (940 km)",
+        "Vesta (525 km)",
+        "Pallas (545 km)",
+        "Hygiea (430 km)",
+        "Interamnia",
+        "Europa",
+        "Davida",
+        "Sylvia",
+        "Cybele",
+        "Eunomia"
+      ],
+      "composition": {
+        "c_type": "Carbonaceous - 75% of asteroids",
+        "s_type": "Silicate/stony - 17% of asteroids",
+        "m_type": "Metallic - 8% of asteroids"
+      },
+      "characteristics": [
+        "Millions of objects",
+        "Failed planet formation",
+        "Jupiter's gravitational influence",
+        "Source of meteorites",
+        "Mining potential",
+        "Kirkwood gaps"
+      ],
+      "practice_ties": [
+        "Transition challenges",
+        "Skill gates",
+        "Obstacle courses",
+        "Foundation to expansion bridge",
+        "Resource collection",
+        "Belt mastery"
+      ]
+    },
+    "kuiper_belt": {
+      "name": "Kuiper Belt",
+      "location": "Beyond Neptune (30-50 AU)",
+      "major_objects": [
+        "Pluto",
+        "Eris",
+        "Makemake",
+        "Haumea",
+        "Quaoar",
+        "Orcus",
+        "Varuna",
+        "Ixion",
+        "2007 OR10",
+        "Salacia"
+      ],
+      "characteristics": [
+        "Icy bodies",
+        "Short-period comet source",
+        "Resonant objects",
+        "Cold classical objects",
+        "Scattered disk objects",
+        "Trans-Neptunian objects"
+      ],
+      "practice_ties": [
+        "Advanced mastery belts",
+        "Cold training",
+        "Distant goals",
+        "Outer edge work",
+        "Transformation zone",
+        "Legacy skills"
+      ]
+    }
+  },
+  "comets": {
+    "famous_comets": {
+      "halleys_comet": {
+        "name": "Halley's Comet",
+        "designation": "1P/Halley",
+        "period": "75-76 years",
+        "last_visit": 1986,
+        "next_visit": 2061,
+        "characteristics": [
+          "Most famous comet",
+          "Predictable returns",
+          "Historical records since 240 BC",
+          "Dirty snowball model confirmed",
+          "Giotto mission target"
+        ]
+      },
+      "encke": {
+        "name": "Comet Encke",
+        "designation": "2P/Encke",
+        "period": "3.3 years",
+        "characteristics": [
+          "Shortest known orbit",
+          "Old faithful",
+          "Taurid meteor shower parent",
+          "Possible swastika inspiration",
+          "Lost its tail in 2007"
+        ]
+      },
+      "hale_bopp": {
+        "name": "Hale-Bopp",
+        "period": "2533 years",
+        "characteristics": [
+          "Great Comet of 1997",
+          "Visible for 18 months",
+          "Dual nucleus"
+        ]
+      },
+      "shoemaker_levy_9": {
+        "name": "Shoemaker-Levy 9",
+        "characteristics": [
+          "Crashed into Jupiter 1994",
+          "First observed celestial collision",
+          "9th comet discovered by team",
+          "Fragmented into pieces"
+        ]
+      }
+    }
+  },
+  "navigation_stars": {
+    "brightest_stars": [
+      {
+        "name": "Sirius",
+        "constellation": "Canis Major",
+        "magnitude": -1.44,
+        "type": "Binary",
+        "distance_ly": 8.6
+      },
+      {
+        "name": "Canopus",
+        "constellation": "Carina",
+        "magnitude": -0.62,
+        "distance_ly": 454
+      },
+      {
+        "name": "Arcturus",
+        "constellation": "Bo\u00f6tes",
+        "magnitude": -0.05,
+        "distance_ly": 37
+      },
+      {
+        "name": "Alpha Centauri",
+        "constellation": "Centaurus",
+        "magnitude": -0.28,
+        "distance_ly": 4.4
+      },
+      {
+        "name": "Vega",
+        "constellation": "Lyra",
+        "magnitude": 0.03,
+        "distance_ly": 25.3
+      },
+      {
+        "name": "Capella",
+        "constellation": "Auriga",
+        "magnitude": 0.08,
+        "distance_ly": 42
+      },
+      {
+        "name": "Rigel",
+        "constellation": "Orion",
+        "magnitude": 0.18,
+        "distance_ly": 279
+      },
+      {
+        "name": "Procyon",
+        "constellation": "Canis Minor",
+        "magnitude": 0.4,
+        "distance_ly": 11.4
+      },
+      {
+        "name": "Betelgeuse",
+        "constellation": "Orion",
+        "magnitude": 0.45,
+        "distance_ly": 229
+      },
+      {
+        "name": "Altair",
+        "constellation": "Aquila",
+        "magnitude": 0.76,
+        "distance_ly": 16.8
+      },
+      {
+        "name": "Aldebaran",
+        "constellation": "Taurus",
+        "magnitude": 0.87,
+        "distance_ly": 65
+      },
+      {
+        "name": "Spica",
+        "constellation": "Virgo",
+        "magnitude": 0.98,
+        "distance_ly": 818
+      },
+      {
+        "name": "Antares",
+        "constellation": "Scorpius",
+        "magnitude": 1.06,
+        "distance_ly": 1397
+      },
+      {
+        "name": "Pollux",
+        "constellation": "Gemini",
+        "magnitude": 1.16,
+        "distance_ly": 34
+      },
+      {
+        "name": "Fomalhaut",
+        "constellation": "Piscis Austrinus",
+        "magnitude": 1.17,
+        "distance_ly": 25.1
+      },
+      {
+        "name": "Deneb",
+        "constellation": "Cygnus",
+        "magnitude": 1.25,
+        "distance_ly": 1107
+      },
+      {
+        "name": "Regulus",
+        "constellation": "Leo",
+        "magnitude": 1.36,
+        "distance_ly": 78
+      },
+      {
+        "name": "Polaris",
+        "constellation": "Ursa Minor",
+        "magnitude": 1.97,
+        "type": "North Star"
+      }
+    ]
+  },
+  "constellations": {
+    "zodiac_constellations": [
+      {
+        "name": "Aries",
+        "symbol": "Ram",
+        "dates": "Mar 21 - Apr 19",
+        "bright_star": "Hamal",
+        "mythology": "Golden Fleece"
+      },
+      {
+        "name": "Taurus",
+        "symbol": "Bull",
+        "dates": "Apr 20 - May 20",
+        "bright_star": "Aldebaran",
+        "features": "Pleiades, Hyades"
+      },
+      {
+        "name": "Gemini",
+        "symbol": "Twins",
+        "dates": "May 21 - Jun 20",
+        "bright_stars": "Castor, Pollux"
+      },
+      {
+        "name": "Cancer",
+        "symbol": "Crab",
+        "dates": "Jun 21 - Jul 22",
+        "features": "Beehive Cluster"
+      },
+      {
+        "name": "Leo",
+        "symbol": "Lion",
+        "dates": "Jul 23 - Aug 22",
+        "bright_star": "Regulus"
+      },
+      {
+        "name": "Virgo",
+        "symbol": "Maiden",
+        "dates": "Aug 23 - Sep 22",
+        "bright_star": "Spica",
+        "features": "Virgo Cluster"
+      },
+      {
+        "name": "Libra",
+        "symbol": "Scales",
+        "dates": "Sep 23 - Oct 22",
+        "bright_stars": "Zubenelgenubi, Zubeneschamali"
+      },
+      {
+        "name": "Scorpio",
+        "symbol": "Scorpion",
+        "dates": "Oct 23 - Nov 21",
+        "bright_star": "Antares"
+      },
+      {
+        "name": "Sagittarius",
+        "symbol": "Archer",
+        "dates": "Nov 22 - Dec 21",
+        "bright_star": "Kaus Australis",
+        "features": "Galactic center"
+      },
+      {
+        "name": "Capricornus",
+        "symbol": "Sea-Goat",
+        "dates": "Dec 22 - Jan 19",
+        "bright_star": "Deneb Algedi"
+      },
+      {
+        "name": "Aquarius",
+        "symbol": "Water Bearer",
+        "dates": "Jan 20 - Feb 18",
+        "features": "Helix Nebula"
+      },
+      {
+        "name": "Pisces",
+        "symbol": "Fish",
+        "dates": "Feb 19 - Mar 20",
+        "bright_star": "Alrescha"
+      }
+    ],
+    "major_constellations": [
+      {
+        "name": "Ursa Major",
+        "common_name": "Big Dipper",
+        "bright_stars": [
+          "Dubhe",
+          "Merak",
+          "Phecda",
+          "Megrez",
+          "Alioth",
+          "Mizar",
+          "Alkaid"
+        ]
+      },
+      {
+        "name": "Ursa Minor",
+        "common_name": "Little Dipper",
+        "bright_star": "Polaris"
+      },
+      {
+        "name": "Orion",
+        "features": "Orion Belt",
+        "bright_stars": [
+          "Betelgeuse",
+          "Rigel",
+          "Bellatrix",
+          "Alnilam",
+          "Alnitak",
+          "Mintaka"
+        ]
+      },
+      {
+        "name": "Cassiopeia",
+        "shape": "W-shaped",
+        "use": "Finding Polaris"
+      },
+      {
+        "name": "Cygnus",
+        "common_name": "Northern Cross",
+        "bright_star": "Deneb"
+      },
+      {
+        "name": "Lyra",
+        "bright_star": "Vega",
+        "features": "Ring Nebula"
+      },
+      {
+        "name": "Aquila",
+        "bright_star": "Altair"
+      },
+      {
+        "name": "Andromeda",
+        "features": "Andromeda Galaxy"
+      },
+      {
+        "name": "Perseus",
+        "bright_star": "Mirfak",
+        "features": "Double Cluster"
+      },
+      {
+        "name": "Draco",
+        "shape": "Dragon wrapping around pole"
+      }
+    ]
+  },
+  "space_missions": {
+    "historic_missions": [
+      {
+        "name": "Sputnik 1",
+        "year": 1957,
+        "achievement": "First artificial satellite"
+      },
+      {
+        "name": "Vostok 1",
+        "year": 1961,
+        "achievement": "First human in space (Yuri Gagarin)"
+      },
+      {
+        "name": "Apollo 11",
+        "year": 1969,
+        "achievement": "First Moon landing"
+      },
+      {
+        "name": "Voyager 1 & 2",
+        "years": "1977-ongoing",
+        "achievement": "Grand Tour of outer planets"
+      },
+      {
+        "name": "Cassini-Huygens",
+        "years": "1997-2017",
+        "achievement": "Saturn system exploration"
+      },
+      {
+        "name": "Hubble Space Telescope",
+        "years": "1990-ongoing",
+        "achievement": "Deep space observation"
+      },
+      {
+        "name": "New Horizons",
+        "years": "2006-ongoing",
+        "achievement": "Pluto flyby"
+      },
+      {
+        "name": "James Webb Space Telescope",
+        "year": 2021,
+        "achievement": "Next generation space observatory"
+      },
+      {
+        "name": "Perseverance",
+        "year": 2021,
+        "achievement": "Mars rover with helicopter"
+      },
+      {
+        "name": "Parker Solar Probe",
+        "years": "2018-ongoing",
+        "achievement": "Closest approach to Sun"
+      }
+    ]
+  }
+}

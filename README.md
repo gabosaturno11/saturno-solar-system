@@ -6,6 +6,16 @@ Interactive visualization tool for The Art of Calisthenics book project.
 
 https://gabosaturno11.github.io/saturno-solar-system/
 
+## OPEN THE APPS
+
+| App | Link |
+|-----|------|
+| **Saturno Solar System** | [Open App](https://gabosaturno11.github.io/saturno-solar-system/) |
+| **Interactive TOC Editor** | [Open App](https://gabosaturno11.github.io/interactive-toc-editor/) |
+| **Saturno Command Center** | [Open App](https://gabosaturno11.github.io/saturno-command-center/) |
+
+---
+
 ## Features
 
 - Interactive Solar System with 6 training planets
